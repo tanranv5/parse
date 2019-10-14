@@ -45,6 +45,6 @@ public class HuoShanServiceImpl implements VideoService {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(new HuoShanServiceImpl().parseUrl("https://reflow.huoshan.com/hotsoon/s/th01P3Eu700/"));
+		System.out.println(new HuoShanServiceImpl().parseUrl("https://reflow.huoshan.com/hotsoon/s/8GCQYDKx700/"));
 	}
 }
